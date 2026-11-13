@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/presentation", "destination": "/presentation/", "permanent": false }
+  ]
+}
